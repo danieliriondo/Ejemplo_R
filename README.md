@@ -19,7 +19,7 @@ Y si quieres poner un lonk tendreis qe poner [Nombre que aparecerá](https://leo
 
 ![Aquí pones una pequeña descripción de la imagen para las personas que no pueden ver y para que el buscador nos posicione mejor](https://fotbollsthlm.se/wp-content/uploads/2024/02/gulliksen_dif.jpg)
 
-<img src="https://fotbollsthlm.se/wp-content/uploads/2024/02/gulliksen_dif.jpg" alt="así se mete la descripción en html" width="100" height="100">
+<img src="https://fotbollsthlm.se/wp-content/uploads/2024/02/gulliksen_dif.jpg" alt="así se mete la descripción en html" width="10" height="10">
 
 si quiero crear una lista puedo usar_
 - esto
@@ -37,4 +37,22 @@ si quiero que sea una lista orcenada:
 3. tres
 
 esto lo desarrollaré en un nota al pie[^1]
-[^1] que desarrollaré aquí
+[^1]: que desarrollaré aquí
+
+también hay emojis. :+1: o :shipit: por ejemplo
+
+> [!NOTE]
+> INFORMACIÓN ÚTIL QUE QUIERO PUNTUALIZAR
+
+> [!TIP]
+> CONSEJOS SOBRE COMO INTERPRETAR MEJOR LO QUE SEA MEJOR
+
+> [!IMPORTANT]
+> NO HACER RUIDO
+
+> [!WARNING]
+> para que Urko no se enfade
+
+> [!CAUTION]
+> Oier anda suelto
+
